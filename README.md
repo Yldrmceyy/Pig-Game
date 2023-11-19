@@ -2,10 +2,26 @@
 Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir tarayıcı tabanlı zar atma oyununu içerir. İki oyuncu arasında geçen bu oyun, zarların atılması ve puanların toplanması üzerine kurulu basit bir yapıya sahiptir. Oyuncular, 20 puana ilk ulaşan kişi olana kadar sırayla zar atarlar. Projenin amacı, JavaScript'in temel yapılarını ve DOM manipülasyonunu anlamak için bir örnek sunmaktır.
 
 ## Proje Özellikleri
-- Zar atma işlevselliği
-- Oyuncu puanlarını güncelleme
-- Oyuncu sırasını değiştirme
-- Oyunun bitiş koşullarını kontrol etme
+
+Bu projede aşağıdaki temel özellikler bulunmaktadır:
+
+### Zar Atma İşlevselliği
+- Oyuncuların sırası geldiğinde, rastgele bir zar atılır.
+- Zarın üzerindeki sayı, oyuncunun geçerli puanına eklenir.
+- Eğer zar üzerinde "1" gelmezse, oyuncunun geçerli puanı güncellenir ve sıra devam eder.
+- Zar üzerinde "1" gelirse, sıra diğer oyuncuya geçer.
+
+### Oyuncu Puanlarını Güncelleme
+- Oyuncuların puanları, zar atma sonucunda elde ettikleri skorlara göre güncellenir.
+- Her oyuncunun toplam puanı, elde ettiği skorlarla belirlenir.
+
+### Oyuncu Sırasını Değiştirme
+- Oyuncular sırayla zar atarlar.
+- "1" atılması veya "Hold" butonuna basılması durumunda sıra diğer oyuncuya geçer.
+
+### Oyunun Bitiş Koşullarını Kontrol Etme
+- Her oyuncunun puanı, belirli bir koşula ulaşılana kadar güncellenir.
+- Belirlenen koşula (örneğin, bir oyuncunun 20 puana ulaşması gibi) ulaşıldığında, oyun sonlanır ve kazanan ilan edilir.
 
 ## Kullanılan Teknolojiler
 - HTML
