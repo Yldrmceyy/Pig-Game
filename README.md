@@ -21,7 +21,7 @@ Bu projede aşağıdaki temel özellikler bulunmaktadır:
 
 ### Oyunun Bitiş Koşullarını Kontrol Etme
 - Her oyuncunun puanı, belirli bir koşula ulaşılana kadar güncellenir.
-- Belirlenen koşula (örneğin, bir oyuncunun 20 puana ulaşması gibi) ulaşıldığında, oyun sonlanır ve kazanan ilan edilir.
+- Belirlenen koşula (örneğin, bir oyuncunun 50 puana ulaşması gibi) ulaşıldığında, oyun sonlanır ve kazanan ilan edilir.
 
 ## Kullanılan Teknolojiler
 - HTML
