@@ -39,9 +39,9 @@ Bu projede aşağıdaki temel özellikler bulunmaktadır:
 - `style.css`: Oyunun görünümü ve stili için CSS dosyası.
 - `script.js`: Oyunun işlevselliği için JavaScript kodlarını içeren dosya.
 
-  ## Ekran Görüntüsü
-![Screenshot_1](https://github.com/Yldrmceyy/Pig-Game/assets/106755050/d4c8dc2b-dc28-461c-bc5e-1f311a15caff)
+## Ekran Görüntüsü
+![Pig_Game](https://github.com/Yldrmceyy/Pig-Game/assets/106755050/7680ac84-b495-40ed-a631-5ced905689be)
 
- ## Katkıda Bulunma
+## Katkıda Bulunma
 
  Eğer projeye katkıda bulunmak isterseniz, "Pull Request" ile katkılarınızı iletebilirsiniz.
