@@ -1,6 +1,9 @@
 # Pig-Game
 Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir tarayıcı tabanlı zar atma oyununu içerir. İki oyuncu arasında geçen bu oyun, zarların atılması ve puanların toplanması üzerine kurulu basit bir yapıya sahiptir. Oyuncular, 20 puana ilk ulaşan kişi olana kadar sırayla zar atarlar. Projenin amacı, JavaScript'in temel yapılarını ve DOM manipülasyonunu anlamak için bir örnek sunmaktır.
 
+## Canlı Demo
+Projenin canlı demosuna [buradan](https://cy-piggame.netlify.app/) ulaşabilirsiniz.🎬
+
 ## Proje Özellikleri
 
 Bu projede aşağıdaki temel özellikler bulunmaktadır:
